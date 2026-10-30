@@ -21,3 +21,11 @@
 ![Скриншот к ответу](figures/image-2.png)
 
 ````
+
+# Теория по теме работы
+
+1. https://netacad.sadlab.su/srwe-dl/7.1.1
+2. https://netacad.sadlab.su/srwe-dl/15.1.1
+3. https://netacad.sadlab.su/ensa-dl/4.1.1
+4. https://netacad.sadlab.su/ensa-dl/6.1.1
+5. https://networkeducation.ru/video/course/ipv4/
